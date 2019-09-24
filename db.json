@@ -1,14 +1,97 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Publicis sapient"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Publicis sapient"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Publicis sapient"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Publicis sapient"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Publicis sapient"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "mam"
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "type"
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "title": "yes"
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "title": "saepe unde necessitatibus rem"
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "title": "distinctio laborum qui"
+  },
+  {
+    "userId": 2,
+    "id": 11,
+    "title": "quam nostrum impedit mollitia quod et dolor"
+  },
+  {
+    "userId": 2,
+    "id": 12,
+    "title": "consequatur autem doloribus natus consectetur"
+  },
+  {
+    "userId": 2,
+    "id": 13,
+    "title": "ab rerum non rerum consequatur ut ea unde"
+  },
+  {
+    "userId": 2,
+    "id": 14,
+    "title": "ducimus molestias eos animi atque nihil"
+  },
+  {
+    "userId": 2,
+    "id": 15,
+    "title": "ut pariatur rerum ipsum natus repellendus praesentium"
+  },
+  {
+    "userId": 2,
+    "id": 16,
+    "title": "voluptatem aut maxime inventore autem magnam atque repellat"
+  },
+  {
+    "userId": 2,
+    "id": 17,
+    "title": "aut minima voluptatem ut velit"
+  },
+  {
+    "userId": 2,
+    "id": 18,
+    "title": "nesciunt quia et doloremque"
+  },
+  {
+    "userId": 2,
+    "id": 19,
+    "title": "velit pariatur quaerat similique libero omnis quia"
   }
-}
+]
